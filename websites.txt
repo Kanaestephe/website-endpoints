@@ -87,3 +87,5 @@ testter.gk
 myhomee.tk
 estephe.tk
 cindy.mk
+testterr.gk
+myhomeet.tk
